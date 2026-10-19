@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Syed Ghazi Raza Kazmi — Student Portfolio",
-  description: "A student portfolio for Syed Ghazi Raza Kazmi, Iqra University, Karachi.",
+  title: "Syed Saad Ahmed Shah — Student Portfolio",
+  description: "A student portfolio for Syed Saad Ahmed Shah, Iqra University, Karachi.",
 };
 
 export default function RootLayout({ children }) {
